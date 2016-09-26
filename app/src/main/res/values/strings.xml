@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SICAV</string>
+    <string name="subtitulo">Sistema de Control de Accidentes Viales</string>
+    <string name="home">SICAV - HOME</string>
+    <string name="label_Index">COMENZAR</string>
+</resources>
