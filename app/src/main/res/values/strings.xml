@@ -3,4 +3,28 @@
     <string name="subtitulo">Sistema de Control de Accidentes Viales</string>
     <string name="home">SICAV - HOME</string>
     <string name="label_Index">COMENZAR</string>
+    <string name="title_activity_mapa">Mapa</string>
+    <string name="title_activity_menu">Menu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Actualizar</string>
+    <string name="title_login">LOGIN</string>
+    <string name="username">USERNAME:</string>
+    <string name="password">PASSWORD:</string>
+    <string name="btn_login">Acceder</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="bienvenido">¡BIENVENIDO!</string>
+    <string name="agente">AGENTE:</string>
+    <string name="id">ID:</string>
+    <string name="unidad">UNIDAD:</string>
+
+    <string name="opcion1">Ubicación</string>
+    <string name="opcion2">Zona de Accidentes</string>
+    <string name="opcion3">Cerrar Sesión</string>
+    <string name="title_activity_zonas">Zona de Accidentes</string>
+
+
 </resources>
