@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_ubicacion"
+            android:icon="@android:drawable/ic_dialog_map"
+            android:title="@string/opcion1" />
+        <item
+            android:id="@+id/nav_zona"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/opcion2" />
+        <item
+            android:id="@+id/nav_salir"
+            android:icon="@drawable/mr_ic_close_dark"
+            android:title="@string/opcion3" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
